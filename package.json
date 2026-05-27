@@ -1,6 +1,6 @@
 {
   "name": "@hanzogui/theme",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "source": "src/index.ts",
   "files": [
     "src",
@@ -34,12 +34,12 @@
     "clean:build": "hanzo-gui-build clean:build"
   },
   "dependencies": {
-    "@hanzogui/constants": "^5.0.0",
-    "@hanzogui/start-transition": "^5.0.0",
-    "@hanzogui/web": "^5.0.0"
+    "@hanzogui/constants": "^7.0.0",
+    "@hanzogui/start-transition": "^7.0.0",
+    "@hanzogui/web": "^7.0.0"
   },
   "devDependencies": {
-    "@hanzogui/build": "^2.0.0",
+    "@hanzogui/build": "^7.0.0",
     "react": ">=19"
   },
   "peerDependencies": {
